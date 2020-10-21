@@ -1,0 +1,21 @@
+{
+  "name": "beritabaru",
+  "version": "1.0.0",
+  "description": "buat bikin crud",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hansip",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "consolidate": "*",
+    "dust": "*",
+    "dustjs-helpers": "^1.7.4",
+    "dustjs-linkedin": "^2.7.5",
+    "expres": "*",
+    "express": "^4.17.1",
+    "pg": "*"
+  }
+}
